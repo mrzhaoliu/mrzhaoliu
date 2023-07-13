@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.B.M,  KEDGE Business School,      France, 2021
+* B.B.M, &emsp KEDGE Business School,      France, 2021
 * B.Econ, Renmin University of China, China,  2022
-* M.Law,  University of Pennsylvania Carey Law School, USA, 2023
+* M.Law, &emsp University of Pennsylvania Carey Law School, USA, 2023
 * M.Envir.Studies, University of Pennsylvania, USA,    2024 (Expected)
 * Post-M.Intl.Envir.Mgmt, Mines Paris - PSL,   France, 2024 (Expected)
 
