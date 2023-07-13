@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. 
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.B.M, KEDGE Business School, Marseille, France, 2021
+
 
 Work experience
 ======
