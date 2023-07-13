@@ -20,16 +20,32 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan 2019 - Feb 2019, Intern, China Construction Bank, China
+* Feb 2020 - Apr 2020, Intern, China Alliance of Social Value Investment, China
+* Nov 2020 - Feb 2021, Intern, Ernst & Young, China
+* Feb 2021 - Jun 2021, Part-time Assitant, CIVP - Vins de Provence, France
+* Jun 2021 - Sep 2021, MiraclePlus (former Y Combinator China), China
+* Apr 2021 - Present, Part-time Researcher & Columnist, FOFWEEKLY, China
+* Jun 2023 - Aug 2023, Policy Fellow, Turn Forward, USA
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+Research experience
+======
+* May 2023 - Present, Research Assistant, Penn Center for Science, Sustainability, and the Media of UPenn, USA
+* Feb 2023 - May 2023, Research Assistant, the Wharton School of UPenn, USA
+
+Project experience
+======
+* Apollo Global Management Impact Investing Project, Project Analyst, Penn Impact Investing of UPenn, USA
+* Climate Smart Communities Project of Town of Salem, NY, Project Member, University of Pennsylvania, USA
+* Endangered Species Protection Project, Project Member, Penn Carey Law Environmental Law Project, USA
+
+Leadership experience
+======
+
+Awards & Achievements
+======
+* 
+
 Skills
 ======
 * Skill 1
