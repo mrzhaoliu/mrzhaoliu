@@ -11,6 +11,10 @@ redirect_from:
 
 Education
 ======
+| 列1   | 列2   | 列3   |
+| ---- | ---- | ---- |
+| 数据1 | 数据2 | 数据3 |
+| 数据4  | 数据5  | 数据6  |
 * **Mines Paris - PSL** (Dual Degree Program)
 <br> _Post-Master in International Environmental Management Candidate_
 Paris, France
