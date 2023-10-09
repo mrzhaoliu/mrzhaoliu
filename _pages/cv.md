@@ -55,8 +55,8 @@ Professional Experience
 Leadership experience
 ======
 * Penn Carey Law Student Delegate, American Society of International Law (ASIL) Annual Meeting 2023, USA
-* Vice Secretary General, KEDGE Finance Club (China), KEDGE Business School, China（Incumbent）
-* Board Member, KEDGE Alumni Shanghai, KEDGE Business School, China（Incumbent）
+* Vice Secretary General, KEDGE Finance Club (China), KEDGE Business School, China
+* Board Member, KEDGE Alumni Shanghai, KEDGE Business School, China
 * Co-founder and Head of Publicity, KEDGE Business School Anti-COVID19 Fund, KEDGE Business School, China
 * Chairman, Campus Student Employment & Career Development Association, Renmin University of China, China
 
