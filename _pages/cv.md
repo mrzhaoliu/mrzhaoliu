@@ -11,13 +11,12 @@ redirect_from:
 
 Education
 ======
-| 列1   | 列2   | 列3   |
-| ---- | ---- | ---- |
-| 数据1 | 数据2 | 数据3 |
-| 数据4  | 数据5  | 数据6  |
-* **Mines Paris - PSL** (Dual Degree Program)
-<br> _Post-Master in International Environmental Management Candidate_
+**Mines Paris - PSL** (Dual Degree Program)
+
+_Post-Master in International Environmental Management Candidate_
+
 Paris, France
+
 Nov 2023 – Expected Aug 2024
 * **University of Pennsylvania** (Dual Degree Program) Philadelphia, USA
 * _Master of Environmental Studies Candidate_ Aug 2022 – Expected Aug 2024
