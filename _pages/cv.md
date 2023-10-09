@@ -40,23 +40,17 @@ Research & Project Experience
 * Jan 2023 - May 2023, Project Analyst, Penn Impact Investing, USA
 
 
-Work Experience
+Professional Experience
 ======
-* Jun 2023 - Present, Policy Fellow, Turn Forward, USA
-* Apr 2021 - Present, Part-time Researcher & Columnist, FOFWEEKLY, China
+* Sep 2023 - Present, Research Intern, World Resources Institute (Remote)
+* Apr 2021 - Present, Part-time Researcher & Columnist, FOFWEEKLY, China (Remote)
+* Jun 2023 - Aug 2023, Policy Fellow, Turn Forward, USA
 * Jun 2021 - Sep 2021, Intern, MiraclePlus (former Y Combinator China), China
 * Feb 2021 - Jun 2021, Part-time Assitant, CIVP - Vins de Provence, France
 * Nov 2020 - Feb 2021, Intern, Ernst & Young, China
 * Feb 2020 - Oct 2020, Intern, China Alliance of Social Value Investment, China
 * Jan 2019 - Feb 2019, Intern, China Construction Bank, China
 
-
-
-Project experience
-======
-* Apollo Global Management Impact Investing Project, Project Analyst, Penn Impact Investing of UPenn, USA
-* Climate Smart Communities Project of Town of Salem, NY, Project Member, University of Pennsylvania, USA
-* Endangered Species Protection Project, Project Member, Penn Carey Law Environmental Law Project, USA
 
 Leadership experience
 ======
@@ -78,18 +72,16 @@ Scholarships, Awards, and Achievements
 * Bronze Award, The 4th Hong Kong University Student Contemporary Design Award
 
 
-
 Certificates
 ======
-* Organizational Leadership for Social Workers Certificate, UPenn School of Social Policy & Practice (Pursuing)
+* Organizational Leadership for Social Workers Certificate, UPenn SP2 – Wharton Professional Certificate
 * Sustainability and Climate Risk Certificate (SCR®), Global Association of Risk Professionals (GARP)
 * Legal Research Certificate for Law Students, LexisNexis
 * The Securities Qualification Certificate (exam passed), Securities Association of China (SAC)
 * China Social Finance Mini MBA Certificate, KEDGE Business School
 * Philanthropy Management Certificate, China Global Philanthropy Institute (CGPI)
 
-Languages
+Skills
 ======
-* Chinese
-* English
-* French
+* Programming: Microsoft Office, R, Python, ArcGIS, Tableau, Adobe Creative Cloud (Photoshop, Illustrator, InDesign)
+* Languages: English (Fluent), Chinese (Native), French (Fluent)
