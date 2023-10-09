@@ -11,8 +11,10 @@ redirect_from:
 
 Education
 ======
-* **Mines Paris - PSL** (Dual Degree Program) Paris, France
-* _Post-Master in International Environmental Management Candidate_ Nov 2023 – Expected Aug 2024
+* **Mines Paris - PSL** (Dual Degree Program)
+_Post-Master in International Environmental Management Candidate_
+Paris, France
+Nov 2023 – Expected Aug 2024
 * **University of Pennsylvania** (Dual Degree Program) Philadelphia, USA
 * _Master of Environmental Studies Candidate_ Aug 2022 – Expected Aug 2024
 * **University of Pennsylvania Carey Law School** Philadelphia, USA
@@ -20,7 +22,7 @@ Education
 * **Renmin University of China** (Dual Degree Program) Beijing, China
 * _Bachelor of Economics_ Sep 2018 – Jun 2022
 * **KEDGE Business School** (Dual Degree Program) Marseille, France
-* B_achelor of Management and Commerce (Bac+3)_ Sep 2018 – Oct 2021
+* _Bachelor of Management and Commerce (Bac+3)_ Sep 2018 – Oct 2021
 
 
 Work experience
