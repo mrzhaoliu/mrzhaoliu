@@ -12,7 +12,6 @@ redirect_from:
 Education
 ======
 **Mines Paris - PSL** (Dual Degree Program)
-
 _Post-Master in International Environmental Management Candidate_
 
 Paris, France
