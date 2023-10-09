@@ -11,23 +11,36 @@ redirect_from:
 
 Education
 ======
-**Mines Paris - PSL** (Dual Degree Program)
-_Post-Master in International Environmental Management Candidate_
+* B.B.M, KEDGE Business School, France, 2021
+* B.Econ, Renmin University of China, China, 2022
+* M.Law, University of Pennsylvania Carey Law School, USA, 2023
+* M.Envir.Studies, University of Pennsylvania, USA, 2024 (Expected)
+* Post-M.Intl.Envir.Mgmt, Mines Paris - PSL, France, 2024 (Expected
 
-Paris, France
+Publications & Presentations
+======
+* **Zhao Liu**, “Social Enterprise and Impact Investing.” Introduction to Social Organization Development, China Renmin
+University Press, 2023 (Accepted)
+* **Zhao Liu**, Yaqian Xiao, Shiqi Lin, “Current Situation and Trend Analysis of China’s Charitable Trust.” Research Report
+on Social Impact Finance in China (No.2), Social Sciences Academic Press (China), 2023 (Accepted)
+* **Zhao Liu**, “Decarbonizing Power Generation in Pennsylvania – A Roadmap Beyond RGGI.” Student-Published
+Anthology of Research at Kleinman Magazine, Kleinman Center for Energy Policy at University of Pennsylvania, 2023
+* **Zhao Liu**, “Decarbonizing Power Generation in Pennsylvania - A Roadmap Beyond RGGI.” Poster Exhibition at Energy Week of the University of Pennsylvania, Philadelphia, PA, March 2023
+* **Zhao Liu**, “From Bottled Water to Filtered Water: Save Money and Save the Earth.” Presentation at the Penn Grad Talks of the University of Pennsylvania, Philadelphia, PA, February 2023
+* **Zhao Liu**, “Development Current Situation and Trend Analysis of China’s Charitable Trust.” Research Report on Social Impact Finance in China (No.1), Social Sciences Academic Press (China), 2021 (China’s first social impact finance book)
+* Fang Yan, **Zhao Liu**, “Shenzhen Corporate Social Responsibility Development Report (2018-2019).” : Shenzhen Philanthropy Development Report (2018-2019), Sun Yat-sen University Press, 2021
+* Wen Li, Xinke Gu, **Zhao Liu**, Wenqi Hu, “A-Share Listed Company Poverty Alleviation Practice Report (2020).” A-Share Listed Company Sustainable Development Value Assessment Report (2020), Social Sciences Academic Press, 2021 (China Soft Science Special Award)
 
-Nov 2023 – Expected Aug 2024
-* **University of Pennsylvania** (Dual Degree Program) Philadelphia, USA
-* _Master of Environmental Studies Candidate_ Aug 2022 – Expected Aug 2024
-* **University of Pennsylvania Carey Law School** Philadelphia, USA
-* _Master in Law, focus on environmental law and energy policy_ Aug 2022 – Aug 2023
-* **Renmin University of China** (Dual Degree Program) Beijing, China
-* _Bachelor of Economics_ Sep 2018 – Jun 2022
-* **KEDGE Business School** (Dual Degree Program) Marseille, France
-* _Bachelor of Management and Commerce (Bac+3)_ Sep 2018 – Oct 2021
+Research & Project Experience
+======
+* Sep 2023 - Present, Research Assistant, Energy Justice Lab (Indiana University & University of Pennsylvania), USA
+* May 2023 - Aug 2023, Research Assistant, Penn Center for Science, Sustainability, and the Media of UPenn, USA
+* Feb 2023 - May 2023, Research Assistant, the Wharton School of the University of Pennsylvania, USA
+* Feb 2023 - Apr 2023, Endangered Species Act Project Member, Environmental Law Project (ELP) at the University of Pennsylvania, USA
+* Jan 2023 - May 2023, Project Analyst, Penn Impact Investing, USA
 
 
-Work experience
+Work Experience
 ======
 * Jun 2023 - Present, Policy Fellow, Turn Forward, USA
 * Apr 2021 - Present, Part-time Researcher & Columnist, FOFWEEKLY, China
@@ -37,10 +50,7 @@ Work experience
 * Feb 2020 - Oct 2020, Intern, China Alliance of Social Value Investment, China
 * Jan 2019 - Feb 2019, Intern, China Construction Bank, China
 
-Research experience
-======
-* May 2023 - Present, Research Assistant, Penn Center for Science, Sustainability, and the Media of UPenn, USA
-* Feb 2023 - May 2023, Research Assistant, the Wharton School of UPenn, USA
+
 
 Project experience
 ======
@@ -67,13 +77,7 @@ Scholarships, Awards, and Achievements
 * Outstanding Youth League Member, Renmin University of China (Four times, Campus level)
 * Bronze Award, The 4th Hong Kong University Student Contemporary Design Award
 
-Publications & Presentations
-======
-* **Zhao Liu**, “Decarbonizing Power Generation in Pennsylvania - A Roadmap Beyond RGGI.” Poster Exhibition at Energy Week of the University of Pennsylvania, Philadelphia, PA, March 2023
-* **Zhao Liu**, “From Bottled Water to Filtered Water: Save Money and Save the Earth.” Presentation at the Penn Grad Talks of the University of Pennsylvania, Philadelphia, PA, February 2023
-* **Zhao Liu**, “Development Current Situation and Trend Analysis of China’s Charitable Trust.” Research Report on Social Impact Finance in China (No.1), Social Sciences Academic Press (China), 2021 (China’s first social impact finance book)
-* Fang Yan, **Zhao Liu**, “Shenzhen Corporate Social Responsibility Development Report (2018-2019).” : Shenzhen Philanthropy Development Report (2018-2019), Sun Yat-sen University Press, 2021
-* Wen Li, Xinke Gu, **Zhao Liu**, Wenqi Hu, “A-Share Listed Company Poverty Alleviation Practice Report (2020).” A-Share Listed Company Sustainable Development Value Assessment Report (2020), Social Sciences Academic Press, 2021 (China Soft Science Special Award)
+
 
 Certificates
 ======
