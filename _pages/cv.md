@@ -11,14 +11,16 @@ redirect_from:
 
 Education
 ======
-| **Mines Paris - PSL** (Dual Degree Program)   | Paris, France |
-|-----------|-----------|
-| Post-Master in International Environmental Management Candidate   | Nov 2023 – Expected Aug 2024   |
-* B.B.M, KEDGE Business School, France, 2021
-* B.Econ, Renmin University of China, China, 2022
-* M.Law, University of Pennsylvania Carey Law School, USA, 2023
-* M.Envir.Studies, University of Pennsylvania, USA, 2024 (Expected)
-* Post-M.Intl.Envir.Mgmt, Mines Paris - PSL, France, 2024 (Expected)
+**Mines Paris - PSL** (Dual Degree Program) Paris, France
+_Post-Master in International Environmental Management Candidate_ Nov 2023 – Expected Aug 2024
+**University of Pennsylvania** (Dual Degree Program) Philadelphia, USA
+_Master of Environmental Studies Candidate_ Aug 2022 – Expected Aug 2024
+**University of Pennsylvania Carey Law School** Philadelphia, USA
+_Master in Law, focus on environmental law and energy policy_ Aug 2022 – Aug 2023
+**Renmin University of China** (Dual Degree Program) Beijing, China
+_Bachelor of Economics_ Sep 2018 – Jun 2022
+**KEDGE Business School** (Dual Degree Program) Marseille, France
+B_achelor of Management and Commerce (Bac+3)_ Sep 2018 – Oct 2021
 
 
 Work experience
