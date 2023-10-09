@@ -11,6 +11,8 @@ redirect_from:
 
 Education
 ======
+<div style="float: left;">Mines Paris - PSL</div>
+<div style="float: right;">Paris, France</div>
 * B.B.M, KEDGE Business School, France, 2021
 * B.Econ, Renmin University of China, China, 2022
 * M.Law, University of Pennsylvania Carey Law School, USA, 2023
